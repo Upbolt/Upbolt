@@ -3,3 +3,7 @@
 - [📚🌐] **Full stack** web development *(Node.JS)*
 - [🖼️🥰] **UI/UX** design 
 - [🕹️🟥] **Game** development (ROBLOX game engine)
+
+## Goals
+- [🤖🧠] **Machine learning** *(Python & Tensorflow)*
+- [📈💵] **FOREX Trading**
