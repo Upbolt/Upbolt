@@ -1,6 +1,6 @@
 ## Skills
 - [🔄🛠️] **Reverse engineering** *(C & x86 ASM based)*
-- [📚🌐] **Full stack** web development *(<span style="text-decoration: underline">TypeScript</span> 🟦)*
+- [📚🌐] **Full stack** web development *(TypeScript 🟦)*
 - [🖼️🥰] **UI/UX** design *(React ⚛️)*
 - [🕹️🛠️] **Game** development *(ROBLOX game engine 🟥)*
 
