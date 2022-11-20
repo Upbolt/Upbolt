@@ -5,7 +5,7 @@
 
 ## Skills
 - [🔄🛠️] **Reverse engineering** *(C & x86 ASM based)*
-- [📚🌐] **Full stack** web development *(MERN🍃⚙️⚛️🟩 Stack)*
+- [📚🌐] **Full stack** web development *(MAN🍃⚙️🇳 Stack: MongoDB, Actix.rs, Next.js)*
 - [🖼️🥰] **UI/UX** design
 - [🕹️🛠️] **Game** development *(ROBLOX game engine 🟥)*
 
