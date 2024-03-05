@@ -7,7 +7,7 @@
 - [🔄🛠️] **Reverse engineering** *(C & x86 ASM based)*
 - [📚🌐] **Full stack** web development *(T3 Stack)*
 - [🖥️🥰] **UI/UX** design
-- [🕹️🛠️] **Game** development *(ROBLOX game engine 🟥)*
+- [🕹️🛠️] **Game** development *(ROBLOX game engine 🔳)*
 
 ## Learning
 - [⭕] leptos-rs (Full stack web framework in Rust)
