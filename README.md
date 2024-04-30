@@ -5,10 +5,9 @@
 
 ## Skills
 - [🔄🛠️] **Reverse engineering** *(C & x86 ASM based)*
-- [📚🌐] **Full stack** web development *(T3 Stack)*
+- [📚🌐] **Full stack** web development *(T3 Stack, Leptos)*
 - [🖥️🥰] **UI/UX** design
 - [🕹️🛠️] **Game** development *(ROBLOX game engine 🔳)*
 
 ## Learning
-- [⭕] leptos-rs (Full stack web framework in Rust)
 - [🖼️] wgpu (Graphics library wrapper in Rust, based on WebGPU)
